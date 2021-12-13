@@ -10,7 +10,8 @@ table th {
 
 table td {
     padding: 4px 8px;
-    border: 1px solid #e3e3e3;
+    border: 1px solid rgb(193, 163, 43);
+    width: 400px;
 }
 table tr:nth-child(ood) td {
     background-color: honeydew;
